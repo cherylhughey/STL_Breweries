@@ -1,4 +1,3 @@
-# STL_Breweries
 
 <br>
 Screenshot<br>
