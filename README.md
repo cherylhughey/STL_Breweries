@@ -4,6 +4,6 @@ This is a practice run using open source code working with a polygon, colors, ma
 :beer: Screenshot :beer:<br>
 <br>
 <br>
-<img src="stl_breweries.png">
+<img src="stl_breweries2.png">
 <br>
 <i>Created with CodeSandbox</i>
